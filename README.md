@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @matteomattersberger
-- 👀 I’m interested in cognitive neuroscience & analytical philosophy of science & mind
-- 🌱 I’m currently learning to apply machine learning methods on research tasks in cognitive neuroscience
+Master Student @UCDDublin, Research Assistant @TCDDublin
+Currently working on applying machine learning methods to cognitive neuroscience research
+
+Also interested in general questions regarding cognitive science, philosophy of science, philosophy of mind
+
 - 📫 How to reach me: matteo.mattersberger@univie.ac.at, mattersm@tcd.ie
 - 😄 Pronouns: he/him
 
